@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/adarshkumar" target="blank"><img src="https://img.shields.io/twitter/follow/adarshkumar?logo=twitter&style=for-the-badge" alt="adarshkumar" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/adarsh-kumar-275729247](https://www.linkedin.com/in/adarsh-kumar-275729247)
+- 👨‍💻 All of my projects are available at [https://quiet-kitten-f4473e.netlify.app/](https://quiet-kitten-f4473e.netlify.app/)
 
 - 📫 How to reach me **adarshkr0851@gmail.com**
 
