@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **adarshkr0851@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/my-drive?q=parent:0ADstDmjdQMaRUk9PVA%20type:pdf](https://drive.google.com/drive/my-drive?q=parent:0ADstDmjdQMaRUk9PVA%20type:pdf)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1I5edqXuccGOJgK9c2thpIDWpjp89i0eH/view?usp=drivesdk](https://drive.google.com/file/d/1I5edqXuccGOJgK9c2thpIDWpjp89i0eH/view?usp=drivesdk)
 
 - ⚡ Fun fact **I am funny😎**
 
