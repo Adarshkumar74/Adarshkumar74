@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/adarshkumar" target="blank"><img src="https://img.shields.io/twitter/follow/adarshkumar?logo=twitter&style=for-the-badge" alt="adarshkumar" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://quiet-kitten-f4473e.netlify.app/](https://quiet-kitten-f4473e.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://adarshkumarportfolio.netlify.app/](https://adarshkumarportfolio.netlify.app/)
 
 - 📫 How to reach me **adarshkr0851@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1I5edqXuccGOJgK9c2thpIDWpjp89i0eH/view?usp=drivesdk](https://drive.google.com/file/d/1I5edqXuccGOJgK9c2thpIDWpjp89i0eH/view?usp=drivesdk)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1pGfHCV_8Jte7eNduphQ19PeI8RRvFVRO/view?usp=drivesdk](https://drive.google.com/file/d/1pGfHCV_8Jte7eNduphQ19PeI8RRvFVRO/view?usp=drivesdk)
 
 - ⚡ Fun fact **I am funny😎**
 
